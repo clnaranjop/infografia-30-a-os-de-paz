@@ -8,6 +8,6 @@ Como parte del curso de visulisacion de datos se propuso la elaboracion de una i
 
 En el siguiente link puede ingresar a la infografia final.
 
-# [30 años de tratados de paZ](https://clnaranjop.wixsite.com/trabajofinal)
+# [30 años de tratados de paz](https://clnaranjop.wixsite.com/trabajofinal)
 
 
