@@ -2,4 +2,12 @@
 
 ## Descripción
 
-Como parte del curso de visulisacion de datos se propuso la elaboracion de una infografica basada en los datos del proyecto Peace Agreements Database de la universidad de Edimburgo, a continuacion se encuentran las distintas entregas del proyecto junto con su entrega final y la infografia terminada.
+Como parte del curso de visulisacion de datos se propuso la elaboracion de una infografica basada en los datos del proyecto Peace Agreements Database de la universidad de Edimburgo, a continuacion se encuentran las distintas entregas del proyecto junto con su entrega final 
+
+## Enlace
+
+En el siguiente link puede ingresar a la infografia final.
+
+# [30 años de tratados de paZ](https://clnaranjop.wixsite.com/trabajofinal)
+
+
