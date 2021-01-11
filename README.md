@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Como parte del curso de visulisacion de datos se propuso la elaboracion de una infografica basada en los datos del proyecto Peace Agreements Database de la universidad de Edimburgo, a continuacion se encuentran las distintas entregas del proyecto junto con su entrega final 
+Como parte del curso de visulisacion de datos se propuso la elaboracion de una infografica basada en los datos del proyecto Peace Agreements Database de la universidad de Edimburgo, a continuacion se encuentran las distintas entregas del proyecto junto con su entrega final y los codigos usados.
 
 ## Enlace
 
